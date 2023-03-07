@@ -1,2 +1,2 @@
 # kickgo
- go get github.com/Cypaaa/kickgo@dfcdc93
+go get github.com/Cypaaa/kickgo@f9285a0
